@@ -1,3 +1,3 @@
 class PhrasesController < ApplicationController
-  get "/phrase" => "phrases#phrase"
+  get "/phrase_params" => "phrases#phrase_params"
 end
