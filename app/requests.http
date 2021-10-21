@@ -1,0 +1,5 @@
+POST http://localhost:3000/body_params.json 
+content-type: application/json 
+{ 
+    "new_message": "hot dog"
+}
